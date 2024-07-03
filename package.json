@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "James Lee",
+    "email": "techsolutionsx7419@gmail.com",
+    "url": "https://github.com/tsolutionsx"
   },
   "description": "Modern Next.js powered Video calling app",
   "keywords": [
@@ -52,23 +52,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/zoom-clone.git"
+    "url": "https://github.com/tsolutionsx/zoom-clone.git"
   },
-  "homepage": "https://github.com/sanidhyy/zoom-clone#readme",
+  "homepage": "https://github.com/tsolutionsx/zoom-clone#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/zoom-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/tsolutionsx/zoom-clone/issues",
+    "email": "techsolutionsx7419@gmail.com"
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
+
   "dependencies": {
     "@clerk/nextjs": "^5.1.6",
     "@radix-ui/react-dialog": "^1.1.1",

@@ -39,11 +39,11 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    name: "James Lee",
+    url: "https://github.com/tsolutionsx",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/zoom-clone",
+  sourceCode: "https://github.com/tsolutionsx/zoom-clone",
 } as const;

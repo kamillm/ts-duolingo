@@ -2,17 +2,6 @@
 
 # Yoom - Modern Next.js powered Video calling app
 
-![Yoom - Modern Next.js powered Video calling app](/.github/images/img_main.png "Yoom - Modern Next.js powered Video calling app")
-
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/issues "GitHub issues")
-[![GitHub pull reUpcoming Meetings](https://flat.badgen.net/github/prs/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/pulls "GitHub pull reUpcoming Meetings")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2076d95e-3495-4baf-854d-f59283f80b27/deploy-status)](https://clone-yoom.netlify.app/ "Netlify Status")
-
 <!-- Table of Contents -->
 <details>
 
@@ -200,8 +189,6 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
 ![Upcoming Meetings](/.github/images/img2.png "Upcoming Meetings")
 
-![Live Audio/Video Call](/.github/images/img3.png "Live Audio/Video Call")
-
 ![View Recordings](/.github/images/img4.png "View Recordings")
 
 ## :gear: Tech Stack
@@ -246,16 +233,6 @@ Useful resources and dependencies that are used in Yoom.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
 - [typescript](https://www.npmjs.com/package/typescript): ^5
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## :rocket: Follow Me
-
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fzoom-clone "Tweet about this project")
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
-
 ## :books: Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -277,15 +254,6 @@ Happy coding, and feel free to share your thoughts and improvements with the [Ne
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/zoom-clone&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/zoom-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/zoom-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/zoom-clone&type=Timeline" />
-</picture>
-</a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
